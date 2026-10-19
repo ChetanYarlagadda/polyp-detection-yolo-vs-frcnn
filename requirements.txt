@@ -1,0 +1,22 @@
+# PyTorch: install the CUDA build for GPU training, e.g.
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu128
+# (the CPU build also works; training the four detectors then takes much longer)
+torch==2.11.0
+torchvision==0.26.0
+ultralytics==8.4.175
+pycocotools==2.0.11
+opencv-python==5.0.0.93
+polars==2.0.0
+numpy==2.5.3
+pandas==2.3.3
+scipy==1.18.1
+matplotlib==3.11.2
+pillow==12.3.0
+requests==2.34.2
+mlflow==3.17.0
+pytest==9.1.1
+pyflakes==4.0.3
+jupyter==1.1.1
+nbformat==5.11.1
+nbconvert==7.17.1
+ipykernel==7.4.0

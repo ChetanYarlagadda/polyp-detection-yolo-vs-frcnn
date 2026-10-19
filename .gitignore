@@ -1,0 +1,23 @@
+# data & caches
+data/raw/
+data/cache/
+mlruns/
+mlartifacts/
+.cache/
+runs/
+weights/
+
+# python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+*.egg-info/
+
+# env & editors
+.env
+.vscode/
+.idea/
+.DS_Store

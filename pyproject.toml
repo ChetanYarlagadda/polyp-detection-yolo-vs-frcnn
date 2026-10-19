@@ -1,0 +1,11 @@
+[project]
+name = "polyp-detection-yolo-vs-frcnn"
+version = "1.0.0"
+description = "Colonoscopy polyp detection on Kvasir-SEG: YOLO11n vs Faster R-CNN under one COCO-style evaluation, with size breakdown, augmentation ablation, speed and error analysis."
+requires-python = ">=3.10"
+license = "AGPL-3.0-only"
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning", "ignore::FutureWarning"]
