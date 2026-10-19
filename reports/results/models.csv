@@ -1,0 +1,5 @@
+model,key,detector,augmentation,epochs_run,max_epochs,best_epoch,best_val_AP,train_seconds,params,cache_key
+YOLO11n,yolo11n-aug,yolo,True,15,15,15,0.69112,107.27815339999506,2604883,2dfca4f064ff
+YOLO11n (no aug.),yolo11n-none,yolo,False,15,15,13,0.6425,71.42317889998958,2604883,7037ec09e52d
+Faster R-CNN,frcnn-aug,frcnn,True,8,8,8,0.6653226373868534,97.0141050999955,18954629,4f6874fb90d6
+Faster R-CNN (no aug.),frcnn-none,frcnn,False,8,8,8,0.6230699755733267,71.89311319999979,18954629,3224ba8b69e7

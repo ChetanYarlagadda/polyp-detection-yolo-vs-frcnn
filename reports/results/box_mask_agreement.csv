@@ -1,0 +1,18 @@
+statistic,value
+JSON boxes,1071.0
+sliver boxes (shorter side < 5 px),7.0
+non-sliver boxes with a mask component at IoU >= 0.9,0.9896616541353384
+non-sliver boxes with a mask component at IoU >= 0.95,0.9793233082706767
+median best IoU with a mask component (non-sliver),0.9907989711702432
+minimum best IoU with a mask component (non-sliver),0.020293501048218
+median x0 offset JSON - mask (px),-1.0
+median y0 offset JSON - mask (px),-1.0
+median x1 offset JSON - mask (px),0.0
+median y1 offset JSON - mask (px),0.0
+median share of box filled by mask (non-sliver),0.7015217946311116
+non-sliver boxes with best IoU < 0.9,11.0
+"of these, box extends > 20 px beyond the mask on the top or left side",10.0
+images: JSON box count = mask components >= 50 px,992.0
+median IoU of overall JSON and mask extents per image,0.9903286187809014
+mean share of mask pixels inside the JSON boxes,0.9999674567865122
+images where < 99% of mask pixels are inside the JSON boxes,0.0

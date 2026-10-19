@@ -1,0 +1,809 @@
+model,key,iou,recall,precision
+YOLO11n,yolo11n-aug,0.5,0.0,1.0
+YOLO11n,yolo11n-aug,0.5,0.01,1.0
+YOLO11n,yolo11n-aug,0.5,0.02,1.0
+YOLO11n,yolo11n-aug,0.5,0.03,1.0
+YOLO11n,yolo11n-aug,0.5,0.04,1.0
+YOLO11n,yolo11n-aug,0.5,0.05,1.0
+YOLO11n,yolo11n-aug,0.5,0.06,1.0
+YOLO11n,yolo11n-aug,0.5,0.07,1.0
+YOLO11n,yolo11n-aug,0.5,0.08,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.09,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.1,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.11,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.12,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.13,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.14,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.15,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.16,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.17,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.18,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.19,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.2,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.21,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.22,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.23,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.24,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.25,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.26,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.27,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.28,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.29,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.3,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.31,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.32,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.33,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.34,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.35000000000000003,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.36,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.37,0.9791666666666666
+YOLO11n,yolo11n-aug,0.5,0.38,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.39,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.4,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.41000000000000003,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.42,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.43,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.44,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.45,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.46,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.47000000000000003,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.48,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.49,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.5,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.51,0.9420289855072463
+YOLO11n,yolo11n-aug,0.5,0.52,0.9315068493150684
+YOLO11n,yolo11n-aug,0.5,0.53,0.9315068493150684
+YOLO11n,yolo11n-aug,0.5,0.54,0.92
+YOLO11n,yolo11n-aug,0.5,0.55,0.9069767441860465
+YOLO11n,yolo11n-aug,0.5,0.56,0.9069767441860465
+YOLO11n,yolo11n-aug,0.5,0.5700000000000001,0.9069767441860465
+YOLO11n,yolo11n-aug,0.5,0.58,0.9069767441860465
+YOLO11n,yolo11n-aug,0.5,0.59,0.9069767441860465
+YOLO11n,yolo11n-aug,0.5,0.6,0.9069767441860465
+YOLO11n,yolo11n-aug,0.5,0.61,0.9069767441860465
+YOLO11n,yolo11n-aug,0.5,0.62,0.8977272727272727
+YOLO11n,yolo11n-aug,0.5,0.63,0.8947368421052632
+YOLO11n,yolo11n-aug,0.5,0.64,0.8947368421052632
+YOLO11n,yolo11n-aug,0.5,0.65,0.8947368421052632
+YOLO11n,yolo11n-aug,0.5,0.66,0.8947368421052632
+YOLO11n,yolo11n-aug,0.5,0.67,0.8942307692307693
+YOLO11n,yolo11n-aug,0.5,0.68,0.8942307692307693
+YOLO11n,yolo11n-aug,0.5,0.6900000000000001,0.8942307692307693
+YOLO11n,yolo11n-aug,0.5,0.7000000000000001,0.8942307692307693
+YOLO11n,yolo11n-aug,0.5,0.71,0.8942307692307693
+YOLO11n,yolo11n-aug,0.5,0.72,0.8942307692307693
+YOLO11n,yolo11n-aug,0.5,0.73,0.8942307692307693
+YOLO11n,yolo11n-aug,0.5,0.74,0.8818181818181818
+YOLO11n,yolo11n-aug,0.5,0.75,0.8818181818181818
+YOLO11n,yolo11n-aug,0.5,0.76,0.8818181818181818
+YOLO11n,yolo11n-aug,0.5,0.77,0.8782608695652174
+YOLO11n,yolo11n-aug,0.5,0.78,0.8782608695652174
+YOLO11n,yolo11n-aug,0.5,0.79,0.8782608695652174
+YOLO11n,yolo11n-aug,0.5,0.8,0.8728813559322034
+YOLO11n,yolo11n-aug,0.5,0.81,0.8728813559322034
+YOLO11n,yolo11n-aug,0.5,0.8200000000000001,0.8677685950413223
+YOLO11n,yolo11n-aug,0.5,0.8300000000000001,0.8629032258064516
+YOLO11n,yolo11n-aug,0.5,0.84,0.8629032258064516
+YOLO11n,yolo11n-aug,0.5,0.85,0.8181818181818182
+YOLO11n,yolo11n-aug,0.5,0.86,0.7801418439716312
+YOLO11n,yolo11n-aug,0.5,0.87,0.7655172413793103
+YOLO11n,yolo11n-aug,0.5,0.88,0.6932515337423313
+YOLO11n,yolo11n-aug,0.5,0.89,0.5906735751295337
+YOLO11n,yolo11n-aug,0.5,0.9,0.583756345177665
+YOLO11n,yolo11n-aug,0.5,0.91,0.5603864734299517
+YOLO11n,yolo11n-aug,0.5,0.92,0.5545023696682464
+YOLO11n,yolo11n-aug,0.5,0.93,0.4234875444839858
+YOLO11n,yolo11n-aug,0.5,0.9400000000000001,0.4067796610169492
+YOLO11n,yolo11n-aug,0.5,0.9500000000000001,0.34277620396600567
+YOLO11n,yolo11n-aug,0.5,0.96,0.3379501385041551
+YOLO11n,yolo11n-aug,0.5,0.97,0.29107981220657275
+YOLO11n,yolo11n-aug,0.5,0.98,0.28935185185185186
+YOLO11n,yolo11n-aug,0.5,0.99,0.0
+YOLO11n,yolo11n-aug,0.5,1.0,0.0
+YOLO11n,yolo11n-aug,0.75,0.0,1.0
+YOLO11n,yolo11n-aug,0.75,0.01,1.0
+YOLO11n,yolo11n-aug,0.75,0.02,1.0
+YOLO11n,yolo11n-aug,0.75,0.03,1.0
+YOLO11n,yolo11n-aug,0.75,0.04,1.0
+YOLO11n,yolo11n-aug,0.75,0.05,1.0
+YOLO11n,yolo11n-aug,0.75,0.06,1.0
+YOLO11n,yolo11n-aug,0.75,0.07,1.0
+YOLO11n,yolo11n-aug,0.75,0.08,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.09,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.1,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.11,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.12,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.13,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.14,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.15,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.16,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.17,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.18,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.19,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.2,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.21,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.22,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.23,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.24,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.25,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.26,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.27,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.28,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.29,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.3,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.31,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.32,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.33,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.34,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.35000000000000003,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.36,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.37,0.9791666666666666
+YOLO11n,yolo11n-aug,0.75,0.38,0.9242424242424242
+YOLO11n,yolo11n-aug,0.75,0.39,0.9242424242424242
+YOLO11n,yolo11n-aug,0.75,0.4,0.9242424242424242
+YOLO11n,yolo11n-aug,0.75,0.41000000000000003,0.9242424242424242
+YOLO11n,yolo11n-aug,0.75,0.42,0.9242424242424242
+YOLO11n,yolo11n-aug,0.75,0.43,0.9242424242424242
+YOLO11n,yolo11n-aug,0.75,0.44,0.9242424242424242
+YOLO11n,yolo11n-aug,0.75,0.45,0.9242424242424242
+YOLO11n,yolo11n-aug,0.75,0.46,0.9242424242424242
+YOLO11n,yolo11n-aug,0.75,0.47000000000000003,0.9242424242424242
+YOLO11n,yolo11n-aug,0.75,0.48,0.9242424242424242
+YOLO11n,yolo11n-aug,0.75,0.49,0.8767123287671232
+YOLO11n,yolo11n-aug,0.75,0.5,0.8767123287671232
+YOLO11n,yolo11n-aug,0.75,0.51,0.8666666666666667
+YOLO11n,yolo11n-aug,0.75,0.52,0.8604651162790697
+YOLO11n,yolo11n-aug,0.75,0.53,0.8604651162790697
+YOLO11n,yolo11n-aug,0.75,0.54,0.8604651162790697
+YOLO11n,yolo11n-aug,0.75,0.55,0.8604651162790697
+YOLO11n,yolo11n-aug,0.75,0.56,0.8604651162790697
+YOLO11n,yolo11n-aug,0.75,0.5700000000000001,0.8604651162790697
+YOLO11n,yolo11n-aug,0.75,0.58,0.8604651162790697
+YOLO11n,yolo11n-aug,0.75,0.59,0.8526315789473684
+YOLO11n,yolo11n-aug,0.75,0.6,0.8526315789473684
+YOLO11n,yolo11n-aug,0.75,0.61,0.8526315789473684
+YOLO11n,yolo11n-aug,0.75,0.62,0.8526315789473684
+YOLO11n,yolo11n-aug,0.75,0.63,0.8526315789473684
+YOLO11n,yolo11n-aug,0.75,0.64,0.8484848484848485
+YOLO11n,yolo11n-aug,0.75,0.65,0.8484848484848485
+YOLO11n,yolo11n-aug,0.75,0.66,0.8484848484848485
+YOLO11n,yolo11n-aug,0.75,0.67,0.8365384615384616
+YOLO11n,yolo11n-aug,0.75,0.68,0.8365384615384616
+YOLO11n,yolo11n-aug,0.75,0.6900000000000001,0.8240740740740741
+YOLO11n,yolo11n-aug,0.75,0.7000000000000001,0.8240740740740741
+YOLO11n,yolo11n-aug,0.75,0.71,0.808695652173913
+YOLO11n,yolo11n-aug,0.75,0.72,0.808695652173913
+YOLO11n,yolo11n-aug,0.75,0.73,0.808695652173913
+YOLO11n,yolo11n-aug,0.75,0.74,0.7966101694915254
+YOLO11n,yolo11n-aug,0.75,0.75,0.7933884297520661
+YOLO11n,yolo11n-aug,0.75,0.76,0.7903225806451613
+YOLO11n,yolo11n-aug,0.75,0.77,0.7903225806451613
+YOLO11n,yolo11n-aug,0.75,0.78,0.7214285714285714
+YOLO11n,yolo11n-aug,0.75,0.79,0.7214285714285714
+YOLO11n,yolo11n-aug,0.75,0.8,0.7132867132867133
+YOLO11n,yolo11n-aug,0.75,0.81,0.6645161290322581
+YOLO11n,yolo11n-aug,0.75,0.8200000000000001,0.5072463768115942
+YOLO11n,yolo11n-aug,0.75,0.8300000000000001,0.4326530612244898
+YOLO11n,yolo11n-aug,0.75,0.84,0.37809187279151946
+YOLO11n,yolo11n-aug,0.75,0.85,0.36610169491525424
+YOLO11n,yolo11n-aug,0.75,0.86,0.29649595687331537
+YOLO11n,yolo11n-aug,0.75,0.87,0.24288840262582057
+YOLO11n,yolo11n-aug,0.75,0.88,0.21052631578947367
+YOLO11n,yolo11n-aug,0.75,0.89,0.14785992217898833
+YOLO11n,yolo11n-aug,0.75,0.9,0.10341726618705036
+YOLO11n,yolo11n-aug,0.75,0.91,0.08848207475209764
+YOLO11n,yolo11n-aug,0.75,0.92,0.0
+YOLO11n,yolo11n-aug,0.75,0.93,0.0
+YOLO11n,yolo11n-aug,0.75,0.9400000000000001,0.0
+YOLO11n,yolo11n-aug,0.75,0.9500000000000001,0.0
+YOLO11n,yolo11n-aug,0.75,0.96,0.0
+YOLO11n,yolo11n-aug,0.75,0.97,0.0
+YOLO11n,yolo11n-aug,0.75,0.98,0.0
+YOLO11n,yolo11n-aug,0.75,0.99,0.0
+YOLO11n,yolo11n-aug,0.75,1.0,0.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.0,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.01,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.02,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.03,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.04,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.05,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.06,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.07,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.08,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.09,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.1,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.11,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.12,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.13,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.14,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.15,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.16,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.17,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.18,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.19,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.2,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.21,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.22,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.23,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.24,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.25,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.26,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.27,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.28,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.29,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.3,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.31,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.32,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.33,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.34,1.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.35000000000000003,0.9787234042553191
+YOLO11n (no aug.),yolo11n-none,0.5,0.36,0.9787234042553191
+YOLO11n (no aug.),yolo11n-none,0.5,0.37,0.9636363636363636
+YOLO11n (no aug.),yolo11n-none,0.5,0.38,0.9636363636363636
+YOLO11n (no aug.),yolo11n-none,0.5,0.39,0.9636363636363636
+YOLO11n (no aug.),yolo11n-none,0.5,0.4,0.9636363636363636
+YOLO11n (no aug.),yolo11n-none,0.5,0.41000000000000003,0.9636363636363636
+YOLO11n (no aug.),yolo11n-none,0.5,0.42,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.43,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.44,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.45,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.46,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.47000000000000003,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.48,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.49,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.5,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.51,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.52,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.53,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.54,0.9583333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.55,0.95
+YOLO11n (no aug.),yolo11n-none,0.5,0.56,0.95
+YOLO11n (no aug.),yolo11n-none,0.5,0.5700000000000001,0.95
+YOLO11n (no aug.),yolo11n-none,0.5,0.58,0.95
+YOLO11n (no aug.),yolo11n-none,0.5,0.59,0.95
+YOLO11n (no aug.),yolo11n-none,0.5,0.6,0.9397590361445783
+YOLO11n (no aug.),yolo11n-none,0.5,0.61,0.9397590361445783
+YOLO11n (no aug.),yolo11n-none,0.5,0.62,0.9302325581395349
+YOLO11n (no aug.),yolo11n-none,0.5,0.63,0.9204545454545454
+YOLO11n (no aug.),yolo11n-none,0.5,0.64,0.9130434782608695
+YOLO11n (no aug.),yolo11n-none,0.5,0.65,0.9130434782608695
+YOLO11n (no aug.),yolo11n-none,0.5,0.66,0.9130434782608695
+YOLO11n (no aug.),yolo11n-none,0.5,0.67,0.8958333333333334
+YOLO11n (no aug.),yolo11n-none,0.5,0.68,0.8787878787878788
+YOLO11n (no aug.),yolo11n-none,0.5,0.6900000000000001,0.8725490196078431
+YOLO11n (no aug.),yolo11n-none,0.5,0.7000000000000001,0.8725490196078431
+YOLO11n (no aug.),yolo11n-none,0.5,0.71,0.8584905660377359
+YOLO11n (no aug.),yolo11n-none,0.5,0.72,0.8141592920353983
+YOLO11n (no aug.),yolo11n-none,0.5,0.73,0.808695652173913
+YOLO11n (no aug.),yolo11n-none,0.5,0.74,0.7983193277310925
+YOLO11n (no aug.),yolo11n-none,0.5,0.75,0.7804878048780488
+YOLO11n (no aug.),yolo11n-none,0.5,0.76,0.7777777777777778
+YOLO11n (no aug.),yolo11n-none,0.5,0.77,0.7777777777777778
+YOLO11n (no aug.),yolo11n-none,0.5,0.78,0.746268656716418
+YOLO11n (no aug.),yolo11n-none,0.5,0.79,0.7266187050359713
+YOLO11n (no aug.),yolo11n-none,0.5,0.8,0.7202797202797203
+YOLO11n (no aug.),yolo11n-none,0.5,0.81,0.7202797202797203
+YOLO11n (no aug.),yolo11n-none,0.5,0.8200000000000001,0.6730769230769231
+YOLO11n (no aug.),yolo11n-none,0.5,0.8300000000000001,0.6708860759493671
+YOLO11n (no aug.),yolo11n-none,0.5,0.84,0.6331360946745562
+YOLO11n (no aug.),yolo11n-none,0.5,0.85,0.627906976744186
+YOLO11n (no aug.),yolo11n-none,0.5,0.86,0.6179775280898876
+YOLO11n (no aug.),yolo11n-none,0.5,0.87,0.6065573770491803
+YOLO11n (no aug.),yolo11n-none,0.5,0.88,0.4829059829059829
+YOLO11n (no aug.),yolo11n-none,0.5,0.89,0.46153846153846156
+YOLO11n (no aug.),yolo11n-none,0.5,0.9,0.4423076923076923
+YOLO11n (no aug.),yolo11n-none,0.5,0.91,0.4157706093189964
+YOLO11n (no aug.),yolo11n-none,0.5,0.92,0.3502994011976048
+YOLO11n (no aug.),yolo11n-none,0.5,0.93,0.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.9400000000000001,0.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.9500000000000001,0.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.96,0.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.97,0.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.98,0.0
+YOLO11n (no aug.),yolo11n-none,0.5,0.99,0.0
+YOLO11n (no aug.),yolo11n-none,0.5,1.0,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.0,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.01,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.02,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.03,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.04,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.05,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.06,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.07,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.08,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.09,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.1,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.11,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.12,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.13,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.14,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.15,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.16,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.17,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.18,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.19,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.2,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.21,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.22,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.23,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.24,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.25,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.26,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.27,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.28,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.29,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.3,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.31,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.32,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.33,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.34,1.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.35000000000000003,0.9787234042553191
+YOLO11n (no aug.),yolo11n-none,0.75,0.36,0.9787234042553191
+YOLO11n (no aug.),yolo11n-none,0.75,0.37,0.9607843137254902
+YOLO11n (no aug.),yolo11n-none,0.75,0.38,0.9607843137254902
+YOLO11n (no aug.),yolo11n-none,0.75,0.39,0.9272727272727272
+YOLO11n (no aug.),yolo11n-none,0.75,0.4,0.9272727272727272
+YOLO11n (no aug.),yolo11n-none,0.75,0.41000000000000003,0.921875
+YOLO11n (no aug.),yolo11n-none,0.75,0.42,0.921875
+YOLO11n (no aug.),yolo11n-none,0.75,0.43,0.921875
+YOLO11n (no aug.),yolo11n-none,0.75,0.44,0.921875
+YOLO11n (no aug.),yolo11n-none,0.75,0.45,0.921875
+YOLO11n (no aug.),yolo11n-none,0.75,0.46,0.921875
+YOLO11n (no aug.),yolo11n-none,0.75,0.47000000000000003,0.9166666666666666
+YOLO11n (no aug.),yolo11n-none,0.75,0.48,0.9166666666666666
+YOLO11n (no aug.),yolo11n-none,0.75,0.49,0.9166666666666666
+YOLO11n (no aug.),yolo11n-none,0.75,0.5,0.9166666666666666
+YOLO11n (no aug.),yolo11n-none,0.75,0.51,0.9166666666666666
+YOLO11n (no aug.),yolo11n-none,0.75,0.52,0.9066666666666666
+YOLO11n (no aug.),yolo11n-none,0.75,0.53,0.9066666666666666
+YOLO11n (no aug.),yolo11n-none,0.75,0.54,0.875
+YOLO11n (no aug.),yolo11n-none,0.75,0.55,0.875
+YOLO11n (no aug.),yolo11n-none,0.75,0.56,0.8674698795180723
+YOLO11n (no aug.),yolo11n-none,0.75,0.5700000000000001,0.8604651162790697
+YOLO11n (no aug.),yolo11n-none,0.75,0.58,0.8604651162790697
+YOLO11n (no aug.),yolo11n-none,0.75,0.59,0.8333333333333334
+YOLO11n (no aug.),yolo11n-none,0.75,0.6,0.7777777777777778
+YOLO11n (no aug.),yolo11n-none,0.75,0.61,0.7745098039215687
+YOLO11n (no aug.),yolo11n-none,0.75,0.62,0.7745098039215687
+YOLO11n (no aug.),yolo11n-none,0.75,0.63,0.7663551401869159
+YOLO11n (no aug.),yolo11n-none,0.75,0.64,0.7663551401869159
+YOLO11n (no aug.),yolo11n-none,0.75,0.65,0.7345132743362832
+YOLO11n (no aug.),yolo11n-none,0.75,0.66,0.7203389830508474
+YOLO11n (no aug.),yolo11n-none,0.75,0.67,0.7142857142857143
+YOLO11n (no aug.),yolo11n-none,0.75,0.68,0.7142857142857143
+YOLO11n (no aug.),yolo11n-none,0.75,0.6900000000000001,0.7142857142857143
+YOLO11n (no aug.),yolo11n-none,0.75,0.7000000000000001,0.7142857142857143
+YOLO11n (no aug.),yolo11n-none,0.75,0.71,0.6893939393939394
+YOLO11n (no aug.),yolo11n-none,0.75,0.72,0.647887323943662
+YOLO11n (no aug.),yolo11n-none,0.75,0.73,0.6038961038961039
+YOLO11n (no aug.),yolo11n-none,0.75,0.74,0.5371428571428571
+YOLO11n (no aug.),yolo11n-none,0.75,0.75,0.5303867403314917
+YOLO11n (no aug.),yolo11n-none,0.75,0.76,0.5052083333333334
+YOLO11n (no aug.),yolo11n-none,0.75,0.77,0.49
+YOLO11n (no aug.),yolo11n-none,0.75,0.78,0.411522633744856
+YOLO11n (no aug.),yolo11n-none,0.75,0.79,0.3023952095808383
+YOLO11n (no aug.),yolo11n-none,0.75,0.8,0.2562814070351759
+YOLO11n (no aug.),yolo11n-none,0.75,0.81,0.2150313152400835
+YOLO11n (no aug.),yolo11n-none,0.75,0.8200000000000001,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.8300000000000001,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.84,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.85,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.86,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.87,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.88,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.89,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.9,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.91,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.92,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.93,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.9400000000000001,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.9500000000000001,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.96,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.97,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.98,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,0.99,0.0
+YOLO11n (no aug.),yolo11n-none,0.75,1.0,0.0
+Faster R-CNN,frcnn-aug,0.5,0.0,1.0
+Faster R-CNN,frcnn-aug,0.5,0.01,1.0
+Faster R-CNN,frcnn-aug,0.5,0.02,1.0
+Faster R-CNN,frcnn-aug,0.5,0.03,1.0
+Faster R-CNN,frcnn-aug,0.5,0.04,1.0
+Faster R-CNN,frcnn-aug,0.5,0.05,1.0
+Faster R-CNN,frcnn-aug,0.5,0.06,1.0
+Faster R-CNN,frcnn-aug,0.5,0.07,1.0
+Faster R-CNN,frcnn-aug,0.5,0.08,1.0
+Faster R-CNN,frcnn-aug,0.5,0.09,1.0
+Faster R-CNN,frcnn-aug,0.5,0.1,1.0
+Faster R-CNN,frcnn-aug,0.5,0.11,1.0
+Faster R-CNN,frcnn-aug,0.5,0.12,1.0
+Faster R-CNN,frcnn-aug,0.5,0.13,1.0
+Faster R-CNN,frcnn-aug,0.5,0.14,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.15,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.16,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.17,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.18,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.19,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.2,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.21,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.22,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.23,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.24,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.25,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.26,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.27,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.28,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.29,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.3,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.31,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.32,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.33,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.34,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.35000000000000003,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.36,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.37,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.38,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.39,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.4,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.41000000000000003,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.42,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.43,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.44,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.45,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.46,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.47000000000000003,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.48,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.49,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.5,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.51,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.52,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.53,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.54,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.55,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.56,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.5700000000000001,0.9733333333333334
+Faster R-CNN,frcnn-aug,0.5,0.58,0.9625
+Faster R-CNN,frcnn-aug,0.5,0.59,0.9625
+Faster R-CNN,frcnn-aug,0.5,0.6,0.9625
+Faster R-CNN,frcnn-aug,0.5,0.61,0.9555555555555556
+Faster R-CNN,frcnn-aug,0.5,0.62,0.9555555555555556
+Faster R-CNN,frcnn-aug,0.5,0.63,0.9555555555555556
+Faster R-CNN,frcnn-aug,0.5,0.64,0.9555555555555556
+Faster R-CNN,frcnn-aug,0.5,0.65,0.9555555555555556
+Faster R-CNN,frcnn-aug,0.5,0.66,0.9555555555555556
+Faster R-CNN,frcnn-aug,0.5,0.67,0.9555555555555556
+Faster R-CNN,frcnn-aug,0.5,0.68,0.9375
+Faster R-CNN,frcnn-aug,0.5,0.6900000000000001,0.9375
+Faster R-CNN,frcnn-aug,0.5,0.7000000000000001,0.9375
+Faster R-CNN,frcnn-aug,0.5,0.71,0.9357798165137615
+Faster R-CNN,frcnn-aug,0.5,0.72,0.9357798165137615
+Faster R-CNN,frcnn-aug,0.5,0.73,0.9357798165137615
+Faster R-CNN,frcnn-aug,0.5,0.74,0.9357798165137615
+Faster R-CNN,frcnn-aug,0.5,0.75,0.9357798165137615
+Faster R-CNN,frcnn-aug,0.5,0.76,0.9357798165137615
+Faster R-CNN,frcnn-aug,0.5,0.77,0.9357798165137615
+Faster R-CNN,frcnn-aug,0.5,0.78,0.9357798165137615
+Faster R-CNN,frcnn-aug,0.5,0.79,0.9357798165137615
+Faster R-CNN,frcnn-aug,0.5,0.8,0.9357798165137615
+Faster R-CNN,frcnn-aug,0.5,0.81,0.9196428571428571
+Faster R-CNN,frcnn-aug,0.5,0.8200000000000001,0.9159663865546218
+Faster R-CNN,frcnn-aug,0.5,0.8300000000000001,0.9159663865546218
+Faster R-CNN,frcnn-aug,0.5,0.84,0.9159663865546218
+Faster R-CNN,frcnn-aug,0.5,0.85,0.9159663865546218
+Faster R-CNN,frcnn-aug,0.5,0.86,0.9090909090909091
+Faster R-CNN,frcnn-aug,0.5,0.87,0.9024390243902439
+Faster R-CNN,frcnn-aug,0.5,0.88,0.8976377952755905
+Faster R-CNN,frcnn-aug,0.5,0.89,0.8976377952755905
+Faster R-CNN,frcnn-aug,0.5,0.9,0.782312925170068
+Faster R-CNN,frcnn-aug,0.5,0.91,0.6705202312138728
+Faster R-CNN,frcnn-aug,0.5,0.92,0.508695652173913
+Faster R-CNN,frcnn-aug,0.5,0.93,0.40476190476190477
+Faster R-CNN,frcnn-aug,0.5,0.9400000000000001,0.36036036036036034
+Faster R-CNN,frcnn-aug,0.5,0.9500000000000001,0.0
+Faster R-CNN,frcnn-aug,0.5,0.96,0.0
+Faster R-CNN,frcnn-aug,0.5,0.97,0.0
+Faster R-CNN,frcnn-aug,0.5,0.98,0.0
+Faster R-CNN,frcnn-aug,0.5,0.99,0.0
+Faster R-CNN,frcnn-aug,0.5,1.0,0.0
+Faster R-CNN,frcnn-aug,0.75,0.0,1.0
+Faster R-CNN,frcnn-aug,0.75,0.01,1.0
+Faster R-CNN,frcnn-aug,0.75,0.02,1.0
+Faster R-CNN,frcnn-aug,0.75,0.03,1.0
+Faster R-CNN,frcnn-aug,0.75,0.04,1.0
+Faster R-CNN,frcnn-aug,0.75,0.05,1.0
+Faster R-CNN,frcnn-aug,0.75,0.06,1.0
+Faster R-CNN,frcnn-aug,0.75,0.07,1.0
+Faster R-CNN,frcnn-aug,0.75,0.08,1.0
+Faster R-CNN,frcnn-aug,0.75,0.09,1.0
+Faster R-CNN,frcnn-aug,0.75,0.1,1.0
+Faster R-CNN,frcnn-aug,0.75,0.11,1.0
+Faster R-CNN,frcnn-aug,0.75,0.12,1.0
+Faster R-CNN,frcnn-aug,0.75,0.13,1.0
+Faster R-CNN,frcnn-aug,0.75,0.14,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.15,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.16,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.17,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.18,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.19,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.2,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.21,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.22,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.23,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.24,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.25,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.26,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.27,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.28,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.29,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.3,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.31,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.32,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.33,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.34,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.35000000000000003,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.36,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.37,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.38,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.39,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.4,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.41000000000000003,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.42,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.43,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.44,0.9655172413793104
+Faster R-CNN,frcnn-aug,0.75,0.45,0.9523809523809523
+Faster R-CNN,frcnn-aug,0.75,0.46,0.9523809523809523
+Faster R-CNN,frcnn-aug,0.75,0.47000000000000003,0.9523809523809523
+Faster R-CNN,frcnn-aug,0.75,0.48,0.9436619718309859
+Faster R-CNN,frcnn-aug,0.75,0.49,0.9436619718309859
+Faster R-CNN,frcnn-aug,0.75,0.5,0.9436619718309859
+Faster R-CNN,frcnn-aug,0.75,0.51,0.9436619718309859
+Faster R-CNN,frcnn-aug,0.75,0.52,0.9436619718309859
+Faster R-CNN,frcnn-aug,0.75,0.53,0.9333333333333333
+Faster R-CNN,frcnn-aug,0.75,0.54,0.9333333333333333
+Faster R-CNN,frcnn-aug,0.75,0.55,0.9333333333333333
+Faster R-CNN,frcnn-aug,0.75,0.56,0.925
+Faster R-CNN,frcnn-aug,0.75,0.5700000000000001,0.925
+Faster R-CNN,frcnn-aug,0.75,0.58,0.925
+Faster R-CNN,frcnn-aug,0.75,0.59,0.9156626506024096
+Faster R-CNN,frcnn-aug,0.75,0.6,0.9111111111111111
+Faster R-CNN,frcnn-aug,0.75,0.61,0.9111111111111111
+Faster R-CNN,frcnn-aug,0.75,0.62,0.9111111111111111
+Faster R-CNN,frcnn-aug,0.75,0.63,0.9111111111111111
+Faster R-CNN,frcnn-aug,0.75,0.64,0.9111111111111111
+Faster R-CNN,frcnn-aug,0.75,0.65,0.875
+Faster R-CNN,frcnn-aug,0.75,0.66,0.875
+Faster R-CNN,frcnn-aug,0.75,0.67,0.86
+Faster R-CNN,frcnn-aug,0.75,0.68,0.8557692307692307
+Faster R-CNN,frcnn-aug,0.75,0.6900000000000001,0.8557692307692307
+Faster R-CNN,frcnn-aug,0.75,0.7000000000000001,0.8557692307692307
+Faster R-CNN,frcnn-aug,0.75,0.71,0.8532110091743119
+Faster R-CNN,frcnn-aug,0.75,0.72,0.8532110091743119
+Faster R-CNN,frcnn-aug,0.75,0.73,0.8532110091743119
+Faster R-CNN,frcnn-aug,0.75,0.74,0.8392857142857143
+Faster R-CNN,frcnn-aug,0.75,0.75,0.8235294117647058
+Faster R-CNN,frcnn-aug,0.75,0.76,0.8235294117647058
+Faster R-CNN,frcnn-aug,0.75,0.77,0.8235294117647058
+Faster R-CNN,frcnn-aug,0.75,0.78,0.8130081300813008
+Faster R-CNN,frcnn-aug,0.75,0.79,0.808
+Faster R-CNN,frcnn-aug,0.75,0.8,0.6938775510204082
+Faster R-CNN,frcnn-aug,0.75,0.81,0.6319018404907976
+Faster R-CNN,frcnn-aug,0.75,0.8200000000000001,0.3153153153153153
+Faster R-CNN,frcnn-aug,0.75,0.8300000000000001,0.0
+Faster R-CNN,frcnn-aug,0.75,0.84,0.0
+Faster R-CNN,frcnn-aug,0.75,0.85,0.0
+Faster R-CNN,frcnn-aug,0.75,0.86,0.0
+Faster R-CNN,frcnn-aug,0.75,0.87,0.0
+Faster R-CNN,frcnn-aug,0.75,0.88,0.0
+Faster R-CNN,frcnn-aug,0.75,0.89,0.0
+Faster R-CNN,frcnn-aug,0.75,0.9,0.0
+Faster R-CNN,frcnn-aug,0.75,0.91,0.0
+Faster R-CNN,frcnn-aug,0.75,0.92,0.0
+Faster R-CNN,frcnn-aug,0.75,0.93,0.0
+Faster R-CNN,frcnn-aug,0.75,0.9400000000000001,0.0
+Faster R-CNN,frcnn-aug,0.75,0.9500000000000001,0.0
+Faster R-CNN,frcnn-aug,0.75,0.96,0.0
+Faster R-CNN,frcnn-aug,0.75,0.97,0.0
+Faster R-CNN,frcnn-aug,0.75,0.98,0.0
+Faster R-CNN,frcnn-aug,0.75,0.99,0.0
+Faster R-CNN,frcnn-aug,0.75,1.0,0.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.0,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.01,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.02,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.03,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.04,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.05,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.06,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.07,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.08,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.09,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.1,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.11,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.12,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.13,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.14,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.15,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.16,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.17,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.18,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.19,1.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.2,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.21,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.22,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.23,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.24,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.25,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.26,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.27,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.28,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.29,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.3,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.31,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.32,0.9761904761904762
+Faster R-CNN (no aug.),frcnn-none,0.5,0.33,0.9615384615384616
+Faster R-CNN (no aug.),frcnn-none,0.5,0.34,0.9615384615384616
+Faster R-CNN (no aug.),frcnn-none,0.5,0.35000000000000003,0.9615384615384616
+Faster R-CNN (no aug.),frcnn-none,0.5,0.36,0.9615384615384616
+Faster R-CNN (no aug.),frcnn-none,0.5,0.37,0.9615384615384616
+Faster R-CNN (no aug.),frcnn-none,0.5,0.38,0.9615384615384616
+Faster R-CNN (no aug.),frcnn-none,0.5,0.39,0.9615384615384616
+Faster R-CNN (no aug.),frcnn-none,0.5,0.4,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.41000000000000003,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.42,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.43,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.44,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.45,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.46,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.47000000000000003,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.48,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.49,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.5,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.51,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.52,0.9571428571428572
+Faster R-CNN (no aug.),frcnn-none,0.5,0.53,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.54,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.55,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.56,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.5700000000000001,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.58,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.59,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.6,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.61,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.62,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.63,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.64,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.65,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.66,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.67,0.9555555555555556
+Faster R-CNN (no aug.),frcnn-none,0.5,0.68,0.9528301886792453
+Faster R-CNN (no aug.),frcnn-none,0.5,0.6900000000000001,0.9528301886792453
+Faster R-CNN (no aug.),frcnn-none,0.5,0.7000000000000001,0.9528301886792453
+Faster R-CNN (no aug.),frcnn-none,0.5,0.71,0.9528301886792453
+Faster R-CNN (no aug.),frcnn-none,0.5,0.72,0.9528301886792453
+Faster R-CNN (no aug.),frcnn-none,0.5,0.73,0.9528301886792453
+Faster R-CNN (no aug.),frcnn-none,0.5,0.74,0.9528301886792453
+Faster R-CNN (no aug.),frcnn-none,0.5,0.75,0.9528301886792453
+Faster R-CNN (no aug.),frcnn-none,0.5,0.76,0.9528301886792453
+Faster R-CNN (no aug.),frcnn-none,0.5,0.77,0.9528301886792453
+Faster R-CNN (no aug.),frcnn-none,0.5,0.78,0.9528301886792453
+Faster R-CNN (no aug.),frcnn-none,0.5,0.79,0.9528301886792453
+Faster R-CNN (no aug.),frcnn-none,0.5,0.8,0.944954128440367
+Faster R-CNN (no aug.),frcnn-none,0.5,0.81,0.944954128440367
+Faster R-CNN (no aug.),frcnn-none,0.5,0.8200000000000001,0.9210526315789473
+Faster R-CNN (no aug.),frcnn-none,0.5,0.8300000000000001,0.9137931034482759
+Faster R-CNN (no aug.),frcnn-none,0.5,0.84,0.8780487804878049
+Faster R-CNN (no aug.),frcnn-none,0.5,0.85,0.8780487804878049
+Faster R-CNN (no aug.),frcnn-none,0.5,0.86,0.8333333333333334
+Faster R-CNN (no aug.),frcnn-none,0.5,0.87,0.8308823529411765
+Faster R-CNN (no aug.),frcnn-none,0.5,0.88,0.8308823529411765
+Faster R-CNN (no aug.),frcnn-none,0.5,0.89,0.8273381294964028
+Faster R-CNN (no aug.),frcnn-none,0.5,0.9,0.8273381294964028
+Faster R-CNN (no aug.),frcnn-none,0.5,0.91,0.8111888111888111
+Faster R-CNN (no aug.),frcnn-none,0.5,0.92,0.7452229299363057
+Faster R-CNN (no aug.),frcnn-none,0.5,0.93,0.7125748502994012
+Faster R-CNN (no aug.),frcnn-none,0.5,0.9400000000000001,0.625
+Faster R-CNN (no aug.),frcnn-none,0.5,0.9500000000000001,0.5627906976744186
+Faster R-CNN (no aug.),frcnn-none,0.5,0.96,0.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.97,0.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.98,0.0
+Faster R-CNN (no aug.),frcnn-none,0.5,0.99,0.0
+Faster R-CNN (no aug.),frcnn-none,0.5,1.0,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.0,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.01,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.02,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.03,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.04,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.05,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.06,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.07,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.08,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.09,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.1,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.11,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.12,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.13,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.14,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.15,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.16,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.17,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.18,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.19,1.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.2,0.9743589743589743
+Faster R-CNN (no aug.),frcnn-none,0.75,0.21,0.9743589743589743
+Faster R-CNN (no aug.),frcnn-none,0.75,0.22,0.9743589743589743
+Faster R-CNN (no aug.),frcnn-none,0.75,0.23,0.9743589743589743
+Faster R-CNN (no aug.),frcnn-none,0.75,0.24,0.9743589743589743
+Faster R-CNN (no aug.),frcnn-none,0.75,0.25,0.9743589743589743
+Faster R-CNN (no aug.),frcnn-none,0.75,0.26,0.9743589743589743
+Faster R-CNN (no aug.),frcnn-none,0.75,0.27,0.9743589743589743
+Faster R-CNN (no aug.),frcnn-none,0.75,0.28,0.9743589743589743
+Faster R-CNN (no aug.),frcnn-none,0.75,0.29,0.9743589743589743
+Faster R-CNN (no aug.),frcnn-none,0.75,0.3,0.9523809523809523
+Faster R-CNN (no aug.),frcnn-none,0.75,0.31,0.9523809523809523
+Faster R-CNN (no aug.),frcnn-none,0.75,0.32,0.9375
+Faster R-CNN (no aug.),frcnn-none,0.75,0.33,0.9375
+Faster R-CNN (no aug.),frcnn-none,0.75,0.34,0.9375
+Faster R-CNN (no aug.),frcnn-none,0.75,0.35000000000000003,0.9375
+Faster R-CNN (no aug.),frcnn-none,0.75,0.36,0.9230769230769231
+Faster R-CNN (no aug.),frcnn-none,0.75,0.37,0.9230769230769231
+Faster R-CNN (no aug.),frcnn-none,0.75,0.38,0.9090909090909091
+Faster R-CNN (no aug.),frcnn-none,0.75,0.39,0.9090909090909091
+Faster R-CNN (no aug.),frcnn-none,0.75,0.4,0.9090909090909091
+Faster R-CNN (no aug.),frcnn-none,0.75,0.41000000000000003,0.9090909090909091
+Faster R-CNN (no aug.),frcnn-none,0.75,0.42,0.9090909090909091
+Faster R-CNN (no aug.),frcnn-none,0.75,0.43,0.9090909090909091
+Faster R-CNN (no aug.),frcnn-none,0.75,0.44,0.9090909090909091
+Faster R-CNN (no aug.),frcnn-none,0.75,0.45,0.9090909090909091
+Faster R-CNN (no aug.),frcnn-none,0.75,0.46,0.9090909090909091
+Faster R-CNN (no aug.),frcnn-none,0.75,0.47000000000000003,0.9090909090909091
+Faster R-CNN (no aug.),frcnn-none,0.75,0.48,0.9
+Faster R-CNN (no aug.),frcnn-none,0.75,0.49,0.9
+Faster R-CNN (no aug.),frcnn-none,0.75,0.5,0.9
+Faster R-CNN (no aug.),frcnn-none,0.75,0.51,0.9
+Faster R-CNN (no aug.),frcnn-none,0.75,0.52,0.9
+Faster R-CNN (no aug.),frcnn-none,0.75,0.53,0.9
+Faster R-CNN (no aug.),frcnn-none,0.75,0.54,0.9
+Faster R-CNN (no aug.),frcnn-none,0.75,0.55,0.9
+Faster R-CNN (no aug.),frcnn-none,0.75,0.56,0.9
+Faster R-CNN (no aug.),frcnn-none,0.75,0.5700000000000001,0.8953488372093024
+Faster R-CNN (no aug.),frcnn-none,0.75,0.58,0.8953488372093024
+Faster R-CNN (no aug.),frcnn-none,0.75,0.59,0.8953488372093024
+Faster R-CNN (no aug.),frcnn-none,0.75,0.6,0.8953488372093024
+Faster R-CNN (no aug.),frcnn-none,0.75,0.61,0.8888888888888888
+Faster R-CNN (no aug.),frcnn-none,0.75,0.62,0.8888888888888888
+Faster R-CNN (no aug.),frcnn-none,0.75,0.63,0.8842105263157894
+Faster R-CNN (no aug.),frcnn-none,0.75,0.64,0.8842105263157894
+Faster R-CNN (no aug.),frcnn-none,0.75,0.65,0.8842105263157894
+Faster R-CNN (no aug.),frcnn-none,0.75,0.66,0.8842105263157894
+Faster R-CNN (no aug.),frcnn-none,0.75,0.67,0.8823529411764706
+Faster R-CNN (no aug.),frcnn-none,0.75,0.68,0.8823529411764706
+Faster R-CNN (no aug.),frcnn-none,0.75,0.6900000000000001,0.8823529411764706
+Faster R-CNN (no aug.),frcnn-none,0.75,0.7000000000000001,0.8823529411764706
+Faster R-CNN (no aug.),frcnn-none,0.75,0.71,0.8679245283018868
+Faster R-CNN (no aug.),frcnn-none,0.75,0.72,0.8679245283018868
+Faster R-CNN (no aug.),frcnn-none,0.75,0.73,0.8611111111111112
+Faster R-CNN (no aug.),frcnn-none,0.75,0.74,0.831858407079646
+Faster R-CNN (no aug.),frcnn-none,0.75,0.75,0.7886178861788617
+Faster R-CNN (no aug.),frcnn-none,0.75,0.76,0.7886178861788617
+Faster R-CNN (no aug.),frcnn-none,0.75,0.77,0.765625
+Faster R-CNN (no aug.),frcnn-none,0.75,0.78,0.7407407407407407
+Faster R-CNN (no aug.),frcnn-none,0.75,0.79,0.7266187050359713
+Faster R-CNN (no aug.),frcnn-none,0.75,0.8,0.7132867132867133
+Faster R-CNN (no aug.),frcnn-none,0.75,0.81,0.6560509554140127
+Faster R-CNN (no aug.),frcnn-none,0.75,0.8200000000000001,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.8300000000000001,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.84,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.85,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.86,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.87,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.88,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.89,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.9,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.91,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.92,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.93,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.9400000000000001,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.9500000000000001,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.96,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.97,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.98,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,0.99,0.0
+Faster R-CNN (no aug.),frcnn-none,0.75,1.0,0.0

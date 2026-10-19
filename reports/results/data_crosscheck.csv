@@ -1,0 +1,13 @@
+check,expected,observed,match,source
+kvasir-seg.zip SHA-256,03b30e21d584e04facf49397a2576738fd626815771afbbf788f74a7153478f7,03b30e21d584e04facf49397a2576738fd626815771afbbf788f74a7153478f7,True,pinned at download
+kvasir-seg.zip bytes,46227172,46227172,True,HTTP Content-Length
+images,1000,1000,True,dataset page
+masks,1000,1000,True,dataset page
+images in the box JSON,1000,1000,True,dataset page
+official training list,880,880,True,Jha et al. (2021)
+official test list,120,120,True,Jha et al. (2021)
+train / test overlap,0,0,True,split lists
+split ids found in the box JSON,1000,1000,True,split lists vs JSON
+JSON width/height = JPEG size,1000,1000,True,JSON vs image files
+box labels other than 'polyp',0,0,True,JSON
+mask size = image size,1000,1000,True,masks vs JSON

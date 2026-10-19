@@ -1,0 +1,96 @@
+{
+  "started_utc": "2026-10-10T14:08:27+00:00",
+  "quick": false,
+  "settings": {
+    "img_size": 416,
+    "n_val": 100,
+    "split_seed": 0,
+    "n_boot": 1000,
+    "speed_images": 120,
+    "cpu_speed_images": 20,
+    "gallery_per_kind": 4,
+    "subsample": []
+  },
+  "yolo_config": {
+    "weights": "yolo11n.pt",
+    "img_size": 416,
+    "epochs": 15,
+    "patience": 6,
+    "batch_size": 16,
+    "augment": true,
+    "seed": 0,
+    "aug_overrides": {
+      "flipud": 0.5,
+      "close_mosaic": 5
+    }
+  },
+  "frcnn_config": {
+    "img_size": 416,
+    "epochs": 8,
+    "patience": 4,
+    "batch_size": 8,
+    "lr": 0.01,
+    "momentum": 0.9,
+    "weight_decay": 0.0001,
+    "warmup_iters": 100,
+    "augment": true,
+    "seed": 0,
+    "pretrained": true
+  },
+  "data": {
+    "zip_url": "https://datasets.simula.no/downloads/kvasir-seg.zip",
+    "zip_sha256": "03b30e21d584e04facf49397a2576738fd626815771afbbf788f74a7153478f7",
+    "split_commit": "dd6d4215a7c9a6f4c4b5ec7fcd91e2a965a7d557",
+    "split_sha256": {
+      "train": "49992c7c6c80abf02032050d4ae754236da3ba1041f609659ad0043ff6d1795c",
+      "val": "d9b48bd3d980324edb39df97764fdbb5489b2583f088fb49c659b76f6d20876b"
+    },
+    "sliver_max_side_px": 5,
+    "size_bins_rel_area": {
+      "small": [
+        0.0,
+        0.1
+      ],
+      "medium": [
+        0.1,
+        0.25
+      ],
+      "large": [
+        0.25,
+        1.0
+      ]
+    },
+    "train_rel_area_tertiles": [
+      0.09970586085939784,
+      0.2302077698940469
+    ],
+    "images": {
+      "train": 780,
+      "val": 100,
+      "test": 120
+    },
+    "dataset_key": "9d5e31b5b7b8"
+  },
+  "timings_s": {
+    "data": 5.1,
+    "training": 347.8,
+    "inference": 4.0,
+    "speed": 32.3,
+    "evaluation": 8.4
+  },
+  "gpu_stages": [
+    "inference",
+    "speed",
+    "training"
+  ],
+  "device": "NVIDIA GeForce RTX 4050 Laptop GPU",
+  "versions": {
+    "python": "3.12.10",
+    "numpy": "2.5.3",
+    "pandas": "2.3.3",
+    "torch": "2.11.0+cu128",
+    "torchvision": "0.26.0+cu128",
+    "ultralytics": "8.4.175",
+    "pycocotools": "2.0.11"
+  }
+}

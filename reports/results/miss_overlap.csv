@@ -1,0 +1,5 @@
+statistic,value
+test polyps,127
+missed by YOLO11n only,6
+missed by Faster R-CNN only,3
+missed by both,14

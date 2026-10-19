@@ -1,0 +1,4 @@
+split,images,boxes,sliver_boxes_dropped,images_with_2plus_polyps,small_polyps,medium_polyps,large_polyps,median_rel_area,median_image_width
+train,780,829,3,36,278,302,249,0.15030621228992413,620.0
+val,100,108,1,6,33,39,36,0.16312963134528485,622.0
+test,120,127,3,7,51,41,35,0.1470803737412272,622.0
