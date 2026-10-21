@@ -1,5 +1,7 @@
 # Colonoscopy Polyp Detection: YOLO vs Faster R-CNN
 
+[![CI](https://github.com/ChetanYarlagadda/polyp-detection-yolo-vs-frcnn/actions/workflows/ci.yml/badge.svg)](https://github.com/ChetanYarlagadda/polyp-detection-yolo-vs-frcnn/actions/workflows/ci.yml)
+
 **Should a colonoscopy polyp detector start from a one-stage YOLO or a two-stage Faster R-CNN?** This project
 fine-tunes both from COCO weights on Kvasir-SEG (1,000 colonoscopy frames with polyp boxes and masks) under the same
 conditions: the same 780 training frames, the same input size (longer side 416 px), a similar training budget of
@@ -285,6 +287,7 @@ scripts/          run_pipeline.py (all experiments), make_figures.py
 notebooks/        analysis.ipynb, the walkthrough with every table
 reports/          figures/ and results/ (every number quoted above)
 tests/            pytest suite (evaluator vs pycocotools, matching, bootstrap, data parsing and splits, augmentation, model, YOLO settings)
+.github/workflows/ CI: pyflakes and the pytest suite on CPU (synthetic images and boxes, no Kvasir-SEG or weight download)
 ```
 
 ## License and citations
