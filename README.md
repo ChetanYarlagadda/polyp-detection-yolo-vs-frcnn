@@ -286,7 +286,7 @@ polypdet/
 scripts/          run_pipeline.py (all experiments), make_figures.py
 notebooks/        analysis.ipynb, the walkthrough with every table
 reports/          figures/ and results/ (every number quoted above)
-tests/            pytest suite (evaluator vs pycocotools, matching, bootstrap, data parsing and splits, augmentation, model, YOLO settings)
+tests/            pytest suite (evaluator vs pycocotools, matching, operating-point threshold, bootstrap, data parsing and splits, augmentation, model, YOLO settings)
 .github/workflows/ CI: pyflakes and the pytest suite on CPU (synthetic images and boxes, no Kvasir-SEG or weight download)
 ```
 

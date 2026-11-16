@@ -192,10 +192,18 @@ def pr_curve(matches: list[ImageMatches], t: int) -> tuple[np.ndarray, np.ndarra
 
 
 def best_f1_threshold(matches: list[ImageMatches], t: int) -> float:
-    """Score threshold that maximises F1 at IoU threshold index ``t`` (chosen on validation images)."""
+    """Score threshold that maximises F1 at IoU threshold index ``t`` (chosen on validation images).
+
+    ``operating_point`` keeps every detection with score >= threshold, so only cuts after the last detection of a
+    block of tied scores can be applied; a cut inside the block would report an F1 the threshold cannot reach.
+    Among equally good cuts the highest threshold (fewest detections) is returned.
+    """
     p, r, s = pr_curve(matches, t)
+    if len(s) == 0:
+        raise ValueError("no detections to choose a score threshold from")
     f1 = 2 * p * r / np.maximum(p + r, 1e-12)
-    return float(s[int(np.argmax(f1))])
+    cuts = np.flatnonzero(np.r_[s[1:] != s[:-1], True])  # last position of each distinct score
+    return float(s[cuts[int(np.argmax(f1[cuts]))]])
 
 
 def operating_point(matches: list[ImageMatches], threshold: float, t: int) -> dict[str, float]:

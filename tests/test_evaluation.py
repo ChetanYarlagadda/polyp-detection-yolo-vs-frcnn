@@ -70,6 +70,37 @@ def test_duplicate_detection_counts_as_false_positive():
     assert ev.operating_point([m], threshold=0.85, t=0)["precision"] == 1.0
 
 
+def test_best_f1_threshold_cuts_only_between_distinct_scores():
+    g = np.array([[0, 0, 100, 100], [200, 200, 300, 300]], dtype=float)
+    fps = [[400, 0, 450, 50], [0, 400, 50, 450], [400, 400, 450, 450]]
+    dets = np.array([[0, 0, 100, 100], [200, 200, 300, 300]] + fps, dtype=float)
+    # one hit at 0.9, then a tie at 0.5: the second hit and three false positives
+    m = ev.match_image(g, dets, np.array([0.9, 0.5, 0.5, 0.5, 0.5]), np.array([0.5]))
+    thr = ev.best_f1_threshold([m], 0)
+    assert thr == 0.9  # F1 2/3; ">= 0.5" keeps the whole tie (F1 4/7), never just the hit inside it (F1 1)
+    assert ev.operating_point([m], thr, 0)["f1"] == pytest.approx(2 / 3)
+    # equally good cuts: 0.9 (F1 2/3) and 0.5 with two false positives (P 1/2, R 1, F1 2/3) -> the higher one
+    m = ev.match_image(g, dets[:4], np.array([0.9, 0.5, 0.5, 0.5]), np.array([0.5]))
+    assert ev.best_f1_threshold([m], 0) == 0.9
+    with pytest.raises(ValueError, match="no detections"):
+        ev.best_f1_threshold([ev.match_image(g, np.zeros((0, 4)), np.zeros(0), np.array([0.5]))], 0)
+
+
+@pytest.mark.parametrize("decimals", [None, 1])
+def test_best_f1_threshold_matches_exhaustive_search(decimals):
+    gt, preds, sizes = synthetic(40, seed=3)
+    if decimals is not None:  # coarse scores: many ties
+        preds = {i: (b, np.round(s, decimals)) for i, (b, s) in preds.items()}
+    m = ev.match_images(gt, preds, sizes, ev.COCO_IOUS)
+    for t in (0, 5):
+        scores = np.unique(np.concatenate([x.scores for x in m]))
+        f1 = {float(c): ev.operating_point(m, c, t)["f1"] for c in scores}
+        best = max(f1.values())
+        thr = ev.best_f1_threshold(m, t)
+        assert ev.operating_point(m, thr, t)["f1"] == pytest.approx(best, abs=1e-12)
+        assert thr == max(c for c, v in f1.items() if v >= best - 1e-12)
+
+
 def test_bootstrap_identity_resample_reproduces_point_estimate():
     gt, preds, sizes = synthetic(20, seed=2)
     m = ev.match_images(gt, preds, sizes, ev.COCO_IOUS)
